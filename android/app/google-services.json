@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "887040386387",
+    "project_id": "gridscout-abb7b",
+    "storage_bucket": "gridscout-abb7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887040386387:android:7135d1b9f5164e91f26da6",
+        "android_client_info": {
+          "package_name": "com.example.grid_scout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8lIvNN5db0DR18K-k2U6uR-qC5flVSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
